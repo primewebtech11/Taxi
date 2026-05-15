@@ -30,16 +30,16 @@ export default function ContactPage() {
 			<section className="contact-page-area section-gap">
 				<div className="container">
 					<div className="row">
-						<div className="map-wrap" style={{ width: '100%', height: '445px' }} id="map"></div>
+						{/* <div className="map-wrap" style={{ width: '100%', height: '445px' }} id="map"></div> */}
 						<div className="col-lg-4 d-flex flex-column address-wrap">
 							<div className="single-contact-address d-flex flex-row">
 								<div className="icon">
 									<span className="lnr lnr-home"></span>
 								</div>
 								<div className="contact-details">
-									<h5>Binghamton, New York</h5>
+									<h5>Punjab,India</h5>
 									<p>
-										4343 Hinkle Deegan Lake Road
+										Pathankot
 									</p>
 								</div>
 							</div>
@@ -48,8 +48,8 @@ export default function ContactPage() {
 									<span className="lnr lnr-phone-handset"></span>
 								</div>
 								<div className="contact-details">
-									<h5>00 (958) 9865 562</h5>
-									<p>Mon to Fri 9am to 6 pm</p>
+									<h5>+91 8054483172</h5>
+									<p>All day 9am to 6 pm</p>
 								</div>
 							</div>
 							<div className="single-contact-address d-flex flex-row">
